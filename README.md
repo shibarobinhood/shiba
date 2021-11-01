@@ -1,5 +1,5 @@
-# shiba
-shiba robinhood
-Name - Shiba Robinhood 
-Decimal - 18
-Total Supply - 1000000000000000000
+# shiba <br/>
+shiba robinhood<br/>
+Name - Shiba Robinhood <br/>
+Decimal - 18<br/>
+Total Supply - 1000000000000000000<br/>
